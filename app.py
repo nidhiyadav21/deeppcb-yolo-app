@@ -54,4 +54,3 @@ if uploaded_file is not None:
     res_plot = result.plot()
     st.image(res_plot, caption="Detection Result", width=image_width)
 
-    os.remove(temp_path)
