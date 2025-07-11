@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-ultralytics
+ultralytics==8.0.20
+opencv-python
 streamlit
 Pillow
 numpy
-opencv-python
-=======
-ultralytics
-streamlit
-Pillow
-numpy
-opencv-python
->>>>>>> 7d04e084048ccf0911c84d69842a784a47dde5ee
+
+
+
