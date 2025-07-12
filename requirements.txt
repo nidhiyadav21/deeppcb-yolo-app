@@ -1,6 +1,6 @@
-ultralytics==8.0.20
-opencv-python
 streamlit
+ultralytics
+opencv-python
 Pillow
 numpy
 
