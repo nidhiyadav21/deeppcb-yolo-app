@@ -13,7 +13,7 @@ uploaded_file = st.file_uploader("Upload Label File", type=["jpg", "jpeg", "png"
 
 
 # 👇 Path to your trained YOLO model
-model_path = "C:/Users/ammyy/runs/detect/deeppcb_yolo_model4/weights/best.pt"
+model_path = "best.pt"
 model = YOLO(model_path)
 
 # Image width slider
